@@ -1,2 +1,2 @@
 # AniFansub
-A high-value Wordpress theme, Made For Fansubbers
+A high-value Wordpress Theme, Made For Fansubbers
